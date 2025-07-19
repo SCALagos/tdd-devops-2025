@@ -7,7 +7,17 @@
 - Make edits, push changes, and create a pull request
 - Collaborate using GitHub (e.g., for SCAL team)
 
+####  What Is Git?
+- Git is a free and open-source distributed version control system (DVCS) used to track changes in source code during software development.
 
+- It helps multiple developers collaborate on the same codebase without overwriting each other’s work — by saving versions, managing branches, and merging changes.
+
+🚀 Key Features of Git
+Version Control	Records the history of every change to your code.
+Distributed	Every developer has a full copy of the project’s history.
+Branching	Allows working on new features without affecting the main code.
+Merging	Combines changes from different branches.
+Speed	Fast performance for commits, diffs, and merges.
 ### VERSION CONTROL
 -  What is Version Control?
   
@@ -109,3 +119,6 @@ git commit -m "Updated footer for SCAL site"
 git push origin update-footer
 ```
 Go to GitHub and create a pull request
+
+
+
