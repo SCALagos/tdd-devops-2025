@@ -10,6 +10,7 @@
 
 ### VERSION CONTROL
 -  What is Version Control?
+  
 Version control is a system that records changes to a file or set of files over time so you can recall specific versions later.
 
 #### Benefits
@@ -78,7 +79,7 @@ git push origin main
 
 - Click Create pull request
 
-✅ This submits your changes to SCAL for review and merging.
+✅ This submits your changes to the repository for review and merging.
 
  #### GitHub Collaboration Tips
 Always pull the latest changes before pushing:
@@ -92,17 +93,19 @@ Use .gitignore to exclude unnecessary files (e.g., .env, node_modules/)
 
 🧪 Example Workflow Summary (for SCAL)
 #### Fork & Clone
+```
 git clone https://github.com/your-username/sample-website.git
 cd sample-website
-
+```
 #### Create a branch
 git checkout -b update-footer
 
 #### Edit code (e.g., update footer in index.html)
 
 #### Commit and push
+```
 git add .
 git commit -m "Updated footer for SCAL site"
 git push origin update-footer
-
-#### Go to GitHub and create a pull request
+```
+Go to GitHub and create a pull request
