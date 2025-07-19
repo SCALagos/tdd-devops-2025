@@ -52,7 +52,7 @@ git checkout -b <branch-name>
 # Merge Branch into Main
 
 git checkout main
-git merge new-feature
+git merge <branch-name>
 
 ```
 ####  Forking and Cloning a Sample Website
