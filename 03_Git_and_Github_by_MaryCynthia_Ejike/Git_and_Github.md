@@ -48,7 +48,7 @@ git log
 #### Branching and Merging
 Create and Switch to a Branch
 ```
-git checkout -b new-feature
+git checkout -b new-book
 # Merge Branch into Main
 
 git checkout main
